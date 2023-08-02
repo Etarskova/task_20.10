@@ -48,14 +48,12 @@ p {
     border: none;
     border-radius: 15px;
     box-shadow: 0 9px rgb(171, 150, 170);
-}
-
-.btn:hover {
-    background-color: #c9ea8d;
-}
-
-.btn:active {
+  }
+  
+  .btn:hover {background-color: #c9ea8d}
+  
+  .btn:active {
     background-color: #c9ea8d;
     box-shadow: 0 5px rgb(183, 195, 180);
     transform: translateY(4px);
-}
+  }
